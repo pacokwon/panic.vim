@@ -1,21 +1,8 @@
-# Dracula for [Vim](http://vim.org)
+# Panic for [Vim](http://vim.org)
 
 > A dark theme for [Vim](http://vim.org).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/vim.png)
-
-## Install
-
-All instructions can be found at [draculatheme.com/vim](https://draculatheme.com/vim).
-
-
-## Team
-
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/vim/graphs/contributors).
-
-[![Trevor Heins](https://avatars0.githubusercontent.com/u/1607028?v=3&s=70)](https://github.com/heinst) |
---- |
-[Trevor Heins](https://github.com/heinst) |
+![Screenshot](http://a4.mzstatic.com/us/r30/Purple49/v4/3c/05/94/3c059414-2f82-88a6-034d-60b9a0661823/sc552x414.jpeg)
 
 ## License
 
