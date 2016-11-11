@@ -1,12 +1,11 @@
-" Dracula vim-airline theme
+" Panic vim-airline theme
 "
 " Copyright 2016, All rights reserved
 "
 " Code licensed under the MIT license
 " http://zenorocha.mit-license.org
 "
-" @author Extrante <extrante@gmail.com>
-" @author Zeno Rocha <hi@zenorocha.com>
+" @author Jonathan Simcoe <@jdsimcoe>
 
 " Color palette
 let s:gui01 = "#44475a"
