@@ -2,7 +2,8 @@
 
 > A dark theme for [Vim](http://vim.org).
 
-![screenshot](https://cl.ly/160o3k041G0H/image)
+![vim-screenshot](https://cl.ly/160o3k041G0H/image)
+![iterm-screenshot](https://cl.ly/3I2K1F0T081F/image)
 
 ## License
 
