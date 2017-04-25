@@ -2,7 +2,7 @@
 
 > A dark theme for [Vim](http://vim.org).
 
-![Screenshot](https://panic.com/prompt/img/screenshots-ipad.png)
+![screenshot](https://cl.ly/160o3k041G0H/image)
 
 ## License
 
