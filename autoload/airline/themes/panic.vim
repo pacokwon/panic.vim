@@ -3,19 +3,18 @@
 " Copyright 2016, All rights reserved
 "
 " Code licensed under the MIT license
-" http://zenorocha.mit-license.org
 "
 " @author Jonathan Simcoe <@jdsimcoe>
 
 " Color palette
-let s:gui01 = "#000000"
-let s:gui02 = "#005F87"
+let s:gui01 = "#0C151E"
+let s:gui02 = "#1094C3"
 let s:gui03 = "#D7AF00"
-let s:gui04 = "#875FFF"
-let s:gui05 = "#D70000"
-let s:gui06 = "#00AFAF"
-let s:gui07 = "#5FAF00"
-let s:gui08 = "#5F00AF"
+let s:gui04 = "#FFCC4B"
+let s:gui05 = "#FF4143"
+let s:gui06 = "#1094C3"
+let s:gui07 = "#3DE163"
+let s:gui08 = "#7F4EFE"
 let s:cterm01 = "0"
 let s:cterm02 = "24"
 let s:cterm03 = "178"
