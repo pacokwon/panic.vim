@@ -1,3 +1,5 @@
+![panic-sign-logo](https://signserver.panic.com/get/svg)
+
 # Panic for [Vim](http://vim.org)
 
 > A dark theme for [Vim](http://vim.org).
