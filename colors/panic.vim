@@ -132,6 +132,26 @@ hi vimOption ctermfg=37 ctermbg=NONE cterm=NONE guifg=#3DE163 guibg=NONE
 hi vimHiCtermFgBg ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE
 hi vimHiGuiFgBg ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=NONE
 " }}}
+"
+" GitGutter {{{
+hi GitGutterAdd guifg=#3DE163 guibg=None
+hi GitGutterChange guifg=#FFCC4B guibg=None
+hi GitGutterDelete guifg=#FF4143 guibg=None
+hi GitGutterChangeDelete guifg=#FFCC4B guibg=None
+" }}}
+"
+" Telescope {{{
+hi TelescopeSelection gui=bold guifg=#3DE163 guibg=None
+" }}}
+"
+" Diff {{{
+hi diffAdded guifg=#3DE163 guibg=None
+hi diffRemoved guifg=#FF4143 guibg=None
+hi diffChanged guifg=#3abc9c guibg=None
+hi diffFile guifg=#FFA244 guibg=None
+hi diffNewFile guifg=#FFCC4B guibg=None
+hi diffLine guifg=#1094C3 guibg=None
+" }}}
 
 
 "
